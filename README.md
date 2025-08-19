@@ -31,9 +31,9 @@
 
 <h3>Скриншоты</h3>
 
-<img width="1315" height="3218" alt="localhost_5174_ (2)" src="https://github.com/user-attachments/assets/19f323bc-9151-4354-9428-c205e5121976" />
+<img alt="localhost_5174_ (2)" src="https://github.com/user-attachments/assets/19f323bc-9151-4354-9428-c205e5121976" />
 
-<img width="1134" height="6533" alt="localhost_5174_ (3)" src="https://github.com/user-attachments/assets/e5228c79-5338-456c-b042-594d8185fcfa" />
+<img alt="localhost_5174_ (3)" src="https://github.com/user-attachments/assets/e5228c79-5338-456c-b042-594d8185fcfa" />
 
-<img width="1120" height="1314" alt="localhost_5174_ (4)" src="https://github.com/user-attachments/assets/92b65dba-51fc-4b26-a930-31c52045d04f" />
+<img alt="localhost_5174_ (4)" src="https://github.com/user-attachments/assets/92b65dba-51fc-4b26-a930-31c52045d04f" />
 
