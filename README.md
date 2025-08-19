@@ -29,6 +29,10 @@
 - пароль: 4i2385j
 - ИНН: 9702009530
 
+  Дополнительно по полезным ссылкам из модуля финального проекта был сделан деплой приложения на Surge https://sd-scan-project.surge.sh/
+
+  
+
 <h3>Скриншоты</h3>
 
 <img alt="localhost_5174_ (2)" src="https://github.com/user-attachments/assets/19f323bc-9151-4354-9428-c205e5121976" />
