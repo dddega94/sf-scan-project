@@ -36,7 +36,6 @@
 
 <h3>Скриншоты</h3>
 
-<img alt="localhost_5174_ (2)" src="https://github.com/user-attachments/assets/19f323bc-9151-4354-9428-c205e5121976" />
 
 <img alt="localhost_5174_ (4)" src="https://github.com/user-attachments/assets/92b65dba-51fc-4b26-a930-31c52045d04f" />
 
